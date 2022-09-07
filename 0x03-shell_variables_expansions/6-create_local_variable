@@ -1,2 +1,5 @@
 #!/bin/bash
 Best="School"
+[master b2bdcd5] Local Variable ceation
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x03-shell_variables_expansions/6-create_local_variable
