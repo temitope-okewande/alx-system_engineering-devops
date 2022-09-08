@@ -5,3 +5,4 @@ Script addition
 Script Division
 Script power calculation
 Binary to decimal
+prints a number with two decimal places
