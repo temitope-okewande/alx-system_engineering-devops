@@ -4,3 +4,4 @@ Gloabl  variable created
 Script addition
 Script Division
 Script power calculation
+Binary to decimal
